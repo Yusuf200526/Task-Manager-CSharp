@@ -8,31 +8,31 @@ A To-Do List application that helps you set your tasks, customize them, mark the
 
 > Empty state — no tasks yet
 
-![Empty State](screenshots/empty_state.png)
+![Empty%20State](screenshots/Empty%20State.png)
 
 > Adding a new task with priority selection
 
-![Adding Task](screenshots/adding_task.png)
+![Adding Task](screenshots/Adding%20Task.png)
 
 > Task list with multiple tasks and priority flags
 
-![Task List](screenshots/task_list.png)
+![Task List](screenshots/Task%20List.png)
 
 > Right-click context menu — Delete or Edit a task
 
-![Context Menu](screenshots/context_menu.png)
+![Context Menu](screenshots/Context%20Menu.png)
 
 > View menu — filter by All, Achieved, or Priority
 
-![View Menu](screenshots/view_menu.png)
+![View Menu](screenshots/View%20Menu.png)
 
 > Filter by priority — Urgent, Mid, Low
 
-![Priority Filter](screenshots/priority_filter.png)
+![Priority Filter](screenshots/Priority%20Filter.png)
 
 > Empty Achieved view — no completed tasks
 
-![Achieved Empty](screenshots/achieved_empty.png)
+![Achieved Empty](screenshots/Achieved%20Empty.png)
 
 ---
 
